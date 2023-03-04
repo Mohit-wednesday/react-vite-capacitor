@@ -72,4 +72,4 @@ yarn open:android // 🤖 For Android
 
 ### 👥 Contributing
 
-If you'd like to contribute to this starter template, feel free to submit a pull request. Please make sure to follow the existing code style and include tests where appropriate.
+If you'd like to contribute to this starter template, feel free to submit a pull request.
